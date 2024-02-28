@@ -1,0 +1,15 @@
+:root{
+    --cor-de-fundo: #002B98;
+    --azul: #201D3B;
+    --botao-ativo: #201D3B;
+    --botão-inativo:#201D3B;
+    --texto-fundo:#FFFFFF;
+    --branco: #FFFFFF;
+
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+    color: var(--azul);
+    font-family:;
+}
